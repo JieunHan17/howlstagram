@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "172560675679",
+    "project_id": "howlstagram-1ebf7",
+    "storage_bucket": "howlstagram-1ebf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172560675679:android:a77cca0ce12f39aed1fcea",
+        "android_client_info": {
+          "package_name": "com.example.howlstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172560675679-6ig8td3ft5cdos0gjhsg63d846i32joq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABUPZHw-tJkku3lk2Nv-zbdHMmbeXbuGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172560675679-6ig8td3ft5cdos0gjhsg63d846i32joq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
